@@ -11,4 +11,4 @@ module.exports = function make(...arg) {
     allArguments = allArguments.concat(newArg);
     return fn;
   };
-}
+};
