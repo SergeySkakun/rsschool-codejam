@@ -1,3 +1,1 @@
-# rsschool-codejam-test
-
-[TASK](https://gist.github.com/dzmitry-varabei/18ed4fcd1c3756b8ab114e8a527f4eeb "Задание")
+[TASK](https://gist.github.com/SergeySkakun/0d83b6144c25a7d7d352d1464c48757a)
